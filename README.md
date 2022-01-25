@@ -7,7 +7,7 @@
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [GroupManager](https://t.me/tg_doubtgroupbot).
+Can be found on telegram as [Doubtgroup](https://t.me/tg_doubtgroupbot).
 
 Alternatively, [find me on telegram](https://t.me/cryptowmd)! (Keep all support questions in the support chat, where more people can help you.)
 
